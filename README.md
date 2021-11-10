@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adoupas
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning everything
 - 📫 How to reach me ...
 
 <!---
